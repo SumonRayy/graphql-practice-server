@@ -1,3 +1,3 @@
-# GraphQL Practice Server
+# 🕸 GraphQL Practice Server
 
 ### Best Practices for GraphQL
